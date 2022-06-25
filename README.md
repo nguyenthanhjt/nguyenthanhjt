@@ -2,7 +2,7 @@
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Nguyen Thanh  👋 I'm a 🚀 Software Engineer 🚀 I ❤️ Happy Hardcore ❤️">
 </p> -->
 
-#### I'm a Full-Stack Developer working in Ha Noi, Viet Nam.
+#### Welcome!!
 
 <h2 align="left">
  <abc>
@@ -28,14 +28,15 @@
     <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
+
 ##### BIO
 
 - 🏢 I'm currently working at **Viettel Cyber Space Center**
 - ⚙️ I use daily: `.java`, `.js`, `.html`, `.sql`,
-- 🌍 I'm mostly active within the **Laravel Community**
+- 🌍 I'm mostly active within the **Java Community**
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **java-coding**, **branding**, **laravel**, **software-development**
-- ⚡️ Fun fact: I'm a huge enthusiast of HipHop
+- 💬 Ping me about **coding**, **software-development**, **architecture**, **oracle**
+- ⚡️ Fun fact: I'm a Technologies,HipHop enthusiast
 
 ## My Sites
 
