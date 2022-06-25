@@ -12,6 +12,15 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
+
+##### BIO
+
+- 🏢 I'm currently working at **Viettel Cyber Space Center**
+- ⚙️ I use daily: `.java`, `.js`, `.html`, `.sql`,
+- 🌍 I'm mostly active within the **Java Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **coding**, **software-development**, **architecture**, **oracle**
+- ⚡️ Fun fact: I'm a Technologies,HipHop enthusiast
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
@@ -37,14 +46,6 @@
     <a href="https://www.apple.com/macos/" tager="_blank"> <img src="https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png" alt="" width="40" height="40"/> </a>
     <a href="https://www.microsoft.com/vi-vn/windows" tager="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="" width="40" height="40"/> </a>
 
-##### BIO
-
-- 🏢 I'm currently working at **Viettel Cyber Space Center**
-- ⚙️ I use daily: `.java`, `.js`, `.html`, `.sql`,
-- 🌍 I'm mostly active within the **Java Community**
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **coding**, **software-development**, **architecture**, **oracle**
-- ⚡️ Fun fact: I'm a Technologies,HipHop enthusiast
 
 ## My Sites
 
