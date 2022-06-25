@@ -7,16 +7,16 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm a Full-Stack Developer working in Ha Noi, Viet Nam. :computer:<br>
+  <br> I'm a Full-Stack Sofware-Engineer👨🏻‍💻  working in Ha Noi, Viet Nam.<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
 
-##### BIO
+<h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 🏢 I'm currently working at **Viettel Cyber Space Center**
-- ⚙️ I use daily: `.java`, `.js`, `.html`, `.sql`,
+- ⚙️ I use daily: `.java`, `.js`, `.html`, `.sql`, `.sh`
 - 🌍 I'm mostly active within the **Java Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **coding**, **software-development**, **architecture**, **oracle**
@@ -54,7 +54,7 @@
 - [Blogspot](https://nguyenthanhjt.blogspot.com/)
 <!-- BLOG-POST-LIST:END -->
 
-## Links
+## Links:
 
 <p align="center">
   <a href="mailto:nguyenthanhjt@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
@@ -65,5 +65,5 @@
   <a href="https://www.instagram.com/nguyenthanhjtt"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://www.reddit.com/user/nguyenthanhjt"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
   <!-- <a href="https://stackoverflow.com/users/4027349/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a> -->
-  <a href="mailto:Matyo#2285"><img src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a>
+  <!-- <a href="mailto:Matyo#2285"><img src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a> -->
 </p>
