@@ -15,7 +15,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 🏢 I'm currently working at **Viettel Cyber Space Center**
+- 🏢 I'm currently working in **Ha Noi**
 - ⚙️ I use daily: `.java`, `.js`, `.html`, `.sql`, `.sh`
 - 🌍 I'm mostly active within the **Java Community**
 - 🌱 Learning all about **Open Source**
