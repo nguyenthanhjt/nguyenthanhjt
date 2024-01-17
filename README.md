@@ -17,10 +17,10 @@
 
 - 🏢 I'm currently working in **Ha Noi**
 - ⚙️ I use daily: `.java`, `.js`, `.html`, `.sql`, `.sh`
-- 🌍 I'm mostly active within the **Java Community**
+- 🌍 I'm mostly active within the **Java, Data Community** 
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **coding**, **software-development**, **architecture**, **database**
-- ⚡️ Fun fact: I'm a Technologies,HipHop enthusiast
+- 💬 Ping me about **coding**, **data processing**, **software-development**, **architecture**, **database**, 
+- ⚡️ Fun fact: I'm a Technologies, HipHop enthusiast
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
