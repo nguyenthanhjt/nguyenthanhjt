@@ -18,7 +18,7 @@
 - 🏢 I'm currently working in **Ha Noi**
 - ⚙️ I use daily: `.java`, `.js`, `.html`, `.sql`, `.sh`
 - 🌍 I'm mostly active within the **Java, Data Community** 
-- 🌱 Learning all about **Open Source**
+- 🌱 Learning all about **Open Source**, passionate about refactoring, optimizing and contributing to meaningful projects.
 - 💬 Ping me about **coding**, **data processing**, **software-development**, **architecture**, **database**, 
 - ⚡️ Fun fact: I'm a Technologies, HipHop enthusiast
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
@@ -54,7 +54,7 @@
 - [Blogspot](https://nguyenthanhjt.blogspot.com/)
 <!-- BLOG-POST-LIST:END -->
 
-## Links:
+## Links -  📫 Reach me::
 
 <p align="center">
   <a href="mailto:nguyenthanhjt@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
