@@ -1,5 +1,5 @@
 <!-- <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Nguyen Thanh  👋 I'm a 🚀 Software Engineer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="" alt="Hi, I'm Nguyen Thanh  👋 I'm a Sofware&Data Engineer|Analyst 🚀 I ❤️ Happy Hardcore ❤️">
 </p> -->
 
 #### Welcome!!
@@ -16,9 +16,9 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 🏢 I'm currently working in **Ha Noi**
-- ⚙️ I use daily: `.java`, `.js`, `.html`, `.sql`, `.sh`
+- ⚙️ I use daily: `.java`, `.js`, `.html`, `.sql`, `.sh`, `.md`
 - 🌍 I'm mostly active within the **Java, Data Community** 
-- 🌱 Learning all about **Open Source**, passionate about refactoring, optimizing and contributing to meaningful projects.
+- 🌱 Learning all about **Open Source**, passionate about refactoring, optimizing, and contributing to meaningful projects.
 - 💬 Ping me about **coding**, **data processing**, **software-development**, **architecture**, **database**, 
 - ⚡️ Fun fact: I'm a Technologies, HipHop enthusiast
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
