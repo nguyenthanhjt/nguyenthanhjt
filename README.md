@@ -35,7 +35,7 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://getbootstrap.com/" tager="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csswizardry.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/html5-original.svg'>" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="<img src='<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/html/html5-original.svg'>'>" alt="html5" width="40" height="40"/> </a>
     <a href="https://jira.atlassian.com/" tager="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="" width="40" height="40"/> </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" alt="" width = "40" height ="40"/>> </a>
     <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
