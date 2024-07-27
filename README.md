@@ -38,9 +38,14 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
     <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/> </a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" alt="IntelliJ IDEA" width="40" height="40"/> </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/> </a>
     <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+    <a href="https://www.redhat.com/en/technologies/jboss-middleware" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jboss/jboss-original.svg" alt="JBoss" width="40" height="40"/> </a>
+    <a href="https://www.ibm.com/cloud/websphere-application-server" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/websphere/websphere-original.svg" alt="WebSphere" width="40" height="40"/> </a>
+    <a href="https://www.r-project.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
+    <a href="https://www.tableau.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/> </a>
+    <a href="https://cloud.google.com/bigquery" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google BigQuery" width="40" height="40"/> </a>
 </p>
 
 <h2 align="left">💻 OS:</h2>
