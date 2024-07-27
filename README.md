@@ -44,7 +44,7 @@
     <a href="https://www.redhat.com/en/technologies/jboss-middleware" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="JBoss" width="40" height="40"/> </a>
     <a href="https://www.ibm.com/cloud/websphere-application-server" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" alt="WebSphere" width="40" height="40"/> </a>
     <a href="https://www.r-project.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
-    <a href="https://www.tableau.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/> </a>
+      <a href="https://www.tableau.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/tableau/tableau.png" alt="Tableau" width="40" height="40"/> </a>
     <a href="https://cloud.google.com/bigquery" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google BigQuery" width="40" height="40"/> </a>
 </p>
 
