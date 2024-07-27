@@ -41,11 +41,11 @@
     <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/> </a>
     <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-    <a href="https://www.redhat.com/en/technologies/jboss-middleware" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jboss/jboss-original.svg" alt="JBoss" width="40" height="40"/> </a>
-    <a href="https://www.ibm.com/cloud/websphere-application-server" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/websphere/websphere-original.svg" alt="WebSphere" width="40" height="40"/> </a>
+    <a href="https://www.redhat.com/en/technologies/jboss-middleware" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="JBoss" width="40" height="40"/> </a>
+    <a href="https://www.ibm.com/cloud/websphere-application-server" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" alt="WebSphere" width="40" height="40"/> </a>
     <a href="https://www.r-project.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
-    <a href="https://www.tableau.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/> </a>
-    <a href="https://cloud.google.com/bigquery" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google BigQuery" width="40" height="40"/> </a>
+    <a href="https://www.tableau.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/> </a>
+    <a href="https://cloud.google.com/bigquery" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google BigQuery" width="40" height="40"/> </a>
 </p>
 
 <h2 align="left">💻 OS:</h2>
