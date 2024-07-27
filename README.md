@@ -57,4 +57,36 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nguyenthanhjt&color=blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ng
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhjt&layout=compact)
+
+![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthanhjt&show_icons=true&theme=radical)
+
+<h2 align="left">🏆 Achievements and Certifications:</h2>
+
+- Google Data Analytics Professional Certificate
+- Oracle Certified Java Programmer
+- IBM Data Science Professional Certificate
+- Red Hat Certified System Administrator
+
+<h2 align="left">📈 Projects:</h2>
+
+- [Project 1: Data Analysis on Bike Sharing](link)
+- [Project 2: Java-based Web Application](link)
+- [Project 3: Machine Learning Model Deployment](link)
+
+<h2 align="left">📜 Blog Posts:</h2>
+
+<!-- BLOG-POST-LIST:START -->
+- [Blogspot](https://nguyenthanhjt.blogspot.com/)
+<!-- BLOG-POST-LIST:END -->
+
+<h2 align="left">📫 Links - Reach me:</h2>
+<p align="center">
+  <a href="mailto:nguyenthanhjt@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/thanh-bui-nguyen-802314158/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://twitter.com/NguyenThanh_JT"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.youtube.com/channel/UCRfv47_xgYq3rTa-hvnN6lQ"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
+  <a href="https://www.facebook.com/nguyenthanhjt"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://www.instagram.com/nguyenthanhjtt"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://www.reddit.com/user/nguyenthanhjt"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
+</p>
