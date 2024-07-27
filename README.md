@@ -55,6 +55,12 @@
     <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Windows" width="40" height="40"/> </a>
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=nguyenthanhjt&color=blue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhjt&layout=compact)
+
+![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthanhjt&show_icons=true&theme=radical)
+
 ## My Sites
 
 <!-- BLOG-POST-LIST:START -->
