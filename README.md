@@ -63,16 +63,16 @@
 
 <h2 align="left">🏆 Achievements and Certifications:</h2>
 
-- Google Data Analytics Professional Certificate
-- Oracle Certified Java Programmer
+- [Google Data Analytics Professional Certificate](https://github.com/nguyenthanhjt/google-data-analytics-professional-certificate-course)
+<!--- Oracle Certified Java Programmer
 - IBM Data Science Professional Certificate
 - Red Hat Certified System Administrator
+-->
 
 <h2 align="left">📈 Projects:</h2>
 
-- [Project 1: Data Analysis on Bike Sharing](link)
-- [Project 2: Java-based Web Application](link)
-- [Project 3: Machine Learning Model Deployment](link)
+- [Project 1: Google Data Analytics Professional Certificate Documentation](https://github.com/nguyenthanhjt/google-data-analytics-professional-certificate-course)
+- [Project 2: Spark Basic Guideline](https://github.com/nguyenthanhjt/spark-basic-guideline)
 
 <h2 align="left">📜 Blog Posts:</h2>
 
