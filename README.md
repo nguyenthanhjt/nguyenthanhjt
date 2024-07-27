@@ -44,7 +44,7 @@
     <a href="https://www.redhat.com/en/technologies/jboss-middleware" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="JBoss" width="40" height="40"/> </a>
     <a href="https://www.ibm.com/cloud/websphere-application-server" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" alt="WebSphere" width="40" height="40"/> </a>
     <a href="https://www.r-project.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
-      <a href="https://www.tableau.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/tableau/tableau.png" alt="Tableau" width="40" height="40"/> </a>
+    <a href="https://www.tableau.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/> </a>
     <a href="https://cloud.google.com/bigquery" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google BigQuery" width="40" height="40"/> </a>
 </p>
 
@@ -57,24 +57,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nguyenthanhjt&color=blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhjt&layout=compact)
-
-![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthanhjt&show_icons=true&theme=radical)
-
-## My Sites
-
-<!-- BLOG-POST-LIST:START -->
-- [Blogspot](https://nguyenthanhjt.blogspot.com/)
-<!-- BLOG-POST-LIST:END -->
-
-## Links -  📫 Reach me::
-
-<p align="center">
-  <a href="mailto:nguyenthanhjt@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/thanh-bui-nguyen-802314158/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://twitter.com/NguyenThanh_JT"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.youtube.com/channel/UCRfv47_xgYq3rTa-hvnN6lQ"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
-  <a href="https://www.facebook.com/nguyenthanhjt"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
-  <a href="https://www.instagram.com/nguyenthanhjtt"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://www.reddit.com/user/nguyenthanhjt"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ng
