@@ -69,10 +69,10 @@
 - Red Hat Certified System Administrator
 -->
 
-<h2 align="left">📈 Projects:</h2>
+<h2 align="left">📈 My repositories:</h2>
 
-- [Project 1: Google Data Analytics Professional Certificate Documentation](https://github.com/nguyenthanhjt/google-data-analytics-professional-certificate-course)
-- [Project 2: Spark Basic Guideline](https://github.com/nguyenthanhjt/spark-basic-guideline)
+- [Google Data Analytics Professional Certificate Documentation](https://github.com/nguyenthanhjt/google-data-analytics-professional-certificate-course)
+- [Spark Basic Guideline](https://github.com/nguyenthanhjt/spark-basic-guideline)
 
 <h2 align="left">📜 Blog Posts:</h2>
 
