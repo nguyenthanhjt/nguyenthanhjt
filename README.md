@@ -72,6 +72,7 @@
 <h2 align="left">📈 My repositories:</h2>
 
 - [Google Data Analytics Professional Certificate Documentation](https://github.com/nguyenthanhjt/google-data-analytics-professional-certificate-course)
+  - [Case Study 1: Github Repository](https://github.com/nguyenthanhjt/google-data-analytics-certificate-capstone-case-study-1-cyclistic)
 - [Spark Basic Guideline](https://github.com/nguyenthanhjt/spark-basic-guideline)
 
 <h2 align="left">📜 Blog Posts:</h2>
