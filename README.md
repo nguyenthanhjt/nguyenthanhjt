@@ -61,10 +61,11 @@
 
 ![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthanhjt&show_icons=true&theme=radical)
 
+<!---
 <h2 align="left">🏆 Achievements and Certifications:</h2>
 
 - [Google Data Analytics Professional Certificate](https://github.com/nguyenthanhjt/google-data-analytics-professional-certificate-course)
-<!--- Oracle Certified Java Programmer
+ Oracle Certified Java Programmer
 - IBM Data Science Professional Certificate
 - Red Hat Certified System Administrator
 -->
@@ -77,7 +78,7 @@
 
 <h2 align="left">📜 Blog Posts:</h2>
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 - [Blogspot](https://nguyenthanhjt.blogspot.com/)
 <!-- BLOG-POST-LIST:END -->
 
