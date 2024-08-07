@@ -76,13 +76,12 @@
   - [Case Study 1: Cyclistic](https://github.com/nguyenthanhjt/google-data-analytics-certificate-capstone-case-study-1-cyclistic)
 - [Spark Basic Guideline](https://github.com/nguyenthanhjt/spark-basic-guideline)
 
+<!-- <h2 align="left">📜 Blog Posts:</h2>
 ---
-
-<!--<h2 align="left">📜 Blog Posts:</h2>
-
  BLOG-POST-LIST:START 
 - [Blogspot](https://nguyenthanhjt.blogspot.com/)
- BLOG-POST-LIST:END -->
+ BLOG-POST-LIST:END 
+-->
 
 ---
 
@@ -98,6 +97,8 @@
 </p>
 
 --- 
+
+<h2 align="left">📈 Statistic:</h2>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nguyenthanhjt&color=blue)
 
