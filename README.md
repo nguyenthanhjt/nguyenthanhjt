@@ -22,6 +22,8 @@
 - 💬 Ping me about **coding**, **data processing**, **software-development**, **architecture**, **database**, 
 - ⚡️ Fun fact: I'm a Technologies, HipHop enthusiast
 
+---
+
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> </a>
@@ -48,6 +50,8 @@
     <a href="https://cloud.google.com/bigquery" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google BigQuery" width="40" height="40"/> </a>
 </p>
 
+---
+
 <h2 align="left">💻 OS:</h2>
 <p align="left">
     <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
@@ -55,11 +59,7 @@
     <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Windows" width="40" height="40"/> </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nguyenthanhjt&color=blue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhjt&layout=compact)
-
-![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthanhjt&show_icons=true&theme=radical)
+---
 
 <!---
 <h2 align="left">🏆 Achievements and Certifications:</h2>
@@ -76,11 +76,15 @@
   - [Case Study 1: Cyclistic](https://github.com/nguyenthanhjt/google-data-analytics-certificate-capstone-case-study-1-cyclistic)
 - [Spark Basic Guideline](https://github.com/nguyenthanhjt/spark-basic-guideline)
 
-<h2 align="left">📜 Blog Posts:</h2>
+---
 
-<!-- BLOG-POST-LIST:START 
+<!--<h2 align="left">📜 Blog Posts:</h2>
+
+ BLOG-POST-LIST:START 
 - [Blogspot](https://nguyenthanhjt.blogspot.com/)
-<!-- BLOG-POST-LIST:END -->
+ BLOG-POST-LIST:END -->
+
+---
 
 <h2 align="left">📫 Links - Reach me:</h2>
 <p align="center">
@@ -92,3 +96,11 @@
   <a href="https://www.instagram.com/nguyenthanhjtt"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://www.reddit.com/user/nguyenthanhjt"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
 </p>
+
+--- 
+
+![Profile Views](https://komarev.com/ghpvc/?username=nguyenthanhjt&color=blue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhjt&layout=compact)
+
+![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthanhjt&show_icons=true&theme=radical)
